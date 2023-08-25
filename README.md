@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Daniel López García!
 I’m a Software Engineer and Tech enthusiast.
 
-I ❤️ to **guess** how things work and I also **enjoy** discovering how wrong I was.
-
 Always trying to learn some new tech.
 
 ## 🛠️ Technologies and Tools
