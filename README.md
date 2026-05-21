@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel!
 
-I'm a **Staff Engineer at Inditex**, where I run a chapter of talented backend engineers and help architect practical solutions for our global ecommerce. 🌍
+I'm a **Principal Engineer at Inditex**, where I run a chapter of talented backend engineers and help architect practical solutions for our global ecommerce. 🌍
 
 In the past years, I’ve been untangling a legacy monolith. Now that we are almost free from the monster 🐉, I'm focused on **performance**, **maintainability**, and developer **productivity**.
 
