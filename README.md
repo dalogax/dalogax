@@ -8,6 +8,8 @@ My main stack is **Java**, with occasional side-quests in **Python** and **JavaS
 
 I tend to have opinions on everything and I love debating, but I won’t push my views unless I can convince you with my arguments—or occasionally, your exhaustion. 😅
 
+If you made it this far, thanks! I owe you a coffee. ☕
+
 ### 🛠️ Side projects
 
 - [**faultend**](https://faultend.com) ([GitHub](https://github.com/dalogax/faultend)): a lightweight proxy for testing how mobile and web apps hold up when the backend misbehaves.
@@ -16,5 +18,3 @@ I tend to have opinions on everything and I love debating, but I won’t push my
 - [**Wizard's Chess**](https://wizardchess.dalogax.com): voice-controlled 3D wizard's chess in the browser. Say the move, watch the pieces fight. ♟️
 - [**chessimport**](https://chessimport.dalogax.com): snap a photo of a paper chess scoresheet, fix the moves, and import the game to Lichess.
 - [**Sapoconcho**](https://sapoconcho.bricolabs.cc) ([GitHub](https://github.com/brico-labs/sapoconcho)): an open-source, 3D-printed Arduino robot for learning robotics and programming, built with the [Bricolabs](https://bricolabs.cc) maker community. 🐸
-
-If you made it this far, thanks! I owe you a coffee. ☕
