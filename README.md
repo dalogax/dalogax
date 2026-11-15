@@ -14,7 +14,7 @@ I tend to have opinions on everything and I love debating, but I won’t push my
 - [**jobtail**](https://github.com/dalogax/jobtail): cron for coding agents. Schedule shell commands and headless AI agent runs, then read every run in a terminal dashboard.
 - [**herdr-agent-hibernate**](https://github.com/dalogax/herdr-agent-hibernate): hibernates idle AI agent panes in [Herdr](https://herdr.dev) to free memory, then resumes the same session when you come back.
 - [**Wizard's Chess**](https://wizardchess.dalogax.com): voice-controlled 3D wizard's chess in the browser. Say the move, watch the pieces fight. ♟️
-- [**ScoreScan**](https://chessimport.dalogax.com): snap a photo of a paper chess scoresheet, fix the moves, and import the game to Lichess.
+- [**chessimport**](https://chessimport.dalogax.com): snap a photo of a paper chess scoresheet, fix the moves, and import the game to Lichess.
 - [**Sapoconcho**](https://sapoconcho.bricolabs.cc) ([GitHub](https://github.com/brico-labs/sapoconcho)): an open-source, 3D-printed Arduino robot for learning robotics and programming, built with the [Bricolabs](https://bricolabs.cc) maker community. 🐸
 
 If you made it this far, thanks! I owe you a coffee. ☕
